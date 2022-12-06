@@ -1,0 +1,62 @@
+* {
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/* styling index.html */
+
+
+/* styling index.html */
+body {
+  background-image: linear-gradient(180deg, blue, #17527e);
+}
+
+.container {
+  background-color: #17527e;
+  margin-top: 30px;
+  margin-inline: auto;
+  width: 600px;
+  height: auto;
+  border-style: solid;
+  font-size: 25px;
+  border-radius: 20px;
+}
+
+.title {
+  text-align: center;
+}
+
+.form {
+  padding-inline: 50px;
+}
+
+.form-input {
+  width: 300px;
+  height: 25px;
+  background-color: #2986cc;
+  border-radius: 10px;
+  border: solid black;
+}
+
+.btn-wrapper {
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.btn-pesan {
+  padding: 15px;
+  background-color: black;
+  color: #2986cc;
+  border-radius: 5px;
+  font-size: 30px;
+}
+
+.form-label {
+  width: 250px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#hasil {
+  padding-inline: 50px;
+}
